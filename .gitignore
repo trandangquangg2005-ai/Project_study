@@ -1,11 +1,11 @@
 # Compiled class files
 *.class
+bin/
 
 # Log files
 *.log
 
 # IDE
-.vscode/
 .idea/
 *.iml
 
